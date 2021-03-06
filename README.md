@@ -5,9 +5,9 @@ Okay, so I created a spelling and a grammatical error checker using the GingerIt
 
 Use the package manager [pip](https://pypi.org/project/pip/) to install gingerit
 
-"""bash
+```bash
 pip install gingerit
-"""
+```
 
 ## Usage
 After installing and importing the gingerit package,it can be used to correct the grammatical and speeling mistakes given input. 
